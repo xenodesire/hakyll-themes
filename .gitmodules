@@ -23,3 +23,6 @@
 [submodule "lanyon-hakyll"]
 	path = lanyon-hakyll
 	url = https://github.com/hahey/lanyon-hakyll.git
+[submodule "hakyll-shell-theme.github.io"]
+	path = hakyll-shell-theme.github.io
+	url = https://github.com/xenodesire/hakyll-shell-theme.github.io
